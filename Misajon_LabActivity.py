@@ -1,0 +1,6 @@
+print ("Complete Name: Kynehl Scott Misajon")
+print ("Course: Bachelor of Science in Computer Science")
+print ("Section: CS1D")
+print ("Age: 20")
+print ("Birthday: July 13, 2003")
+print ("Complete Home Address: Blk 27, Lot 5, Forest View Homes, Carmen, Cagayan de Oro City, Misamis Oriental, 9000")
